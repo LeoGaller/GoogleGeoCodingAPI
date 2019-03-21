@@ -37,7 +37,7 @@ def geocoding(dataframe):
     GOOGLE_MAPS_API_URL = 'https://maps.googleapis.com/maps/api/geocode/json?address='
 
     # metadata for the operation
-    API_KEY = 'AIzaSyDeXudwJeccDE5ibOZtjxL1PaK_j4wItAY'
+    API_KEY = 'YOUR_API_KEY'
 
     # creating a new dataframe with the lat/long information
     latLong_DF = pd.DataFrame({'NOME INSTITUIÇÃO': dataframe['NOME INSTITUIÇÃO']})
