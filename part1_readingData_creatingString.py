@@ -32,12 +32,12 @@ import geocoding_exporting_file as expo
 
 # Declaring metadata
 # Name and location of file
-file = 'C:/Users/Leonardo Galler/Downloads/Dados/201805COOPERATIVAS/201805COOPERATIVAS.xls'
-local = 'C:/Users/Leonardo Galler/Downloads/Dados/201805COOPERATIVAS/'
+file = 'COMPLETE-NAME-AND-LOCATION-OF-FILE'
+local = 'WHERE-THE-OUTPUT-FILE-WILL-BE-LEFT'
 
 # test file with 1 registry
-#test_file = 'C:/Users/Leonardo Galler/Downloads/Dados/201805COOPERATIVAS/201805COOPERATIVAS_5registros.xls'
-#testfile2 = 'C:/Users/Leonardo Galler/Downloads/Dados/201805COOPERATIVAS/201805COOPERATIVAS_100registros.xls'   
+#test_file = 'TEST-LOCATION'
+#testfile2 = 'TEST-LOCATION'   
 # Number of rows to skip from the header
 skip_rows = 9
 
