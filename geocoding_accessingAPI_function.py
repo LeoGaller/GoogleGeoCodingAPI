@@ -13,7 +13,7 @@ output: lat/long of the address
 basic url structure:
 https://maps.googleapis.com/maps/api/geocode/json?address=YOUR_ADDRESS_HERE&components=country:COUNTRY_CODE_HERE&key=YOUR_API_KEY
 Example:
-    https://maps.googleapis.com/maps/api/geocode/json?address=AVENIDA+INTERNACIONAL,+1806+CENTRO+17780-000+LUCELIA+SP&key=AIzaSyDeXudwJeccDE5ibOZtjxL1PaK_j4wItAY
+    https://maps.googleapis.com/maps/api/geocode/json?address=AVENIDA+INTERNACIONAL,+1806+CENTRO+17780-000+LUCELIA+SP&key=****
 
     *** For filtering the URL you can use components por estado, for example:
     If we use        administrative_area:DF , it will look for states
